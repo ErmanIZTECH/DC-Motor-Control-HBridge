@@ -14,7 +14,8 @@ Dc Motor control using Arduino PWM, H-Bridge, IR2101
 
 <img src="https://user-images.githubusercontent.com/26569870/28752585-cf79286e-752b-11e7-8403-32eda57bb28b.jpg" width="400">
 
-## After some decent Soldering :)
+## After some decent Soldering :) 
+**(_Don't worry I have improved my soldering skills._)**
 
 <img src="https://user-images.githubusercontent.com/26569870/28752583-cf3ef176-752b-11e7-880d-7ea105c43646.jpg" width="400">
 
